@@ -1,0 +1,12 @@
+{
+  "name": "less-plugin-var-rewrite",
+  "version": "0.2.0",
+  "description": "Rewrite css variable declarations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["less", "plugin", "rewrite", "var", "variable"],
+  "author": "Ascari Gutierrez <carlos.ascari.x@gmail.com>",
+  "license": "MIT"
+}
